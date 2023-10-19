@@ -1,5 +1,5 @@
-#Protect Your Privilege
+# Protect Your Privilege
 
-##Resources
+## Resources
 
 ### Strong Authentication
